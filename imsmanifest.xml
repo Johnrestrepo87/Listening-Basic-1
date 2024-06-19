@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="jZ9Acu9uPvI0w" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Listening Basic 1</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="listening_basic_1_organization">
+		<organization identifier="listening_basic_1_organization">
+
+			<title>Listening Basic 1</title>
+			<item identifier="FD5A8D5C-0859-468F-9604-320DD0F580CA" identifierref="resource">
+				<title>Listening Basic 1</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/audios/snd-281cc57a4e69bf4cf23ce1019aa382ce8345899a.mp3"/>
+<file href="res/data/audios/snd-447cfde722286384ca1fab6f29ac72881c9e7573.mp3"/>
+<file href="res/data/audios/snd-44a1b5c36e238e6317ef2b8fda49e1a8268bfc0c.mp3"/>
+<file href="res/data/audios/snd-6396531141d78443d5ebfac7686b5b449de7318c.mp3"/>
+<file href="res/data/audios/snd-6ab46dfec977e697f56676eb0423581e0d434a6c.mp3"/>
+<file href="res/data/audios/snd-7b6d404355fe6720dfd6e8caad438ee343bf83c4.mp3"/>
+<file href="res/data/audios/snd-846a1b4180e8c9c757c8f2616a13aaff6d6f3fe0.mp3"/>
+<file href="res/data/audios/snd-a086945aeab48e4f92f8c5d3f330f52dfbdee823.mp3"/>
+<file href="res/data/audios/snd-a441b8adbc102ce61857af1b4edfe6017bae7c0c.mp3"/>
+<file href="res/data/audios/snd-a743eece8354c1ba35569091952acfa4f0dee592.mp3"/>
+<file href="res/data/audios/snd-c12bc55b82921c1a220834c6f2fec7dccc658e70.mp3"/>
+<file href="res/data/audios/snd-e06eaee2d6fd6e9f60de7e403986f26f3df8624f.mp3"/>
+<file href="res/data/audios/snd-e97207a9bcb7b2875d2a9b374a763aca1c294e30.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
